@@ -1,4 +1,4 @@
-# test_db
+# mysql_employees
 
 A MySQL Sample Database to run within a Docker container. Use this to spin up a quick proof-of-concept web application or backend service.
 
